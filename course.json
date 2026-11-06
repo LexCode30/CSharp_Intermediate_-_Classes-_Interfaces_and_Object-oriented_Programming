@@ -1,0 +1,289 @@
+{
+  "name": "CSharp Intermediate - Classes, Interfaces and Object-oriented Programming",
+  "slug": "CSharp_Intermediate_-_Classes-_Interfaces_and_Object-oriented_Programming",
+  "url": "https://LexCode30.github.io/CSharp_Intermediate_-_Classes-_Interfaces_and_Object-oriented_Programming/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "About this Course",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What You are Going to Learn",
+          "id": "1STBuWrPbWJImBEpDyGMa5WMTHmmd6Y6s",
+          "anchor": "v-1STBuWrPbWJImBEpDyGMa5WMTHmmd6Y6s",
+          "href": "s1.html#v-1STBuWrPbWJImBEpDyGMa5WMTHmmd6Y6s"
+        },
+        {
+          "number": 2,
+          "title": "Who is Your Instructor",
+          "id": "19KNAhU3YbNnJ7HGhUj0sg5ksdA09UN02",
+          "anchor": "v-19KNAhU3YbNnJ7HGhUj0sg5ksdA09UN02",
+          "href": "s1.html#v-19KNAhU3YbNnJ7HGhUj0sg5ksdA09UN02"
+        },
+        {
+          "number": 3,
+          "title": "Asking Questions",
+          "id": "1l9IShGOim1eJpRjfuPFWX7mS3oFZ8mz4",
+          "anchor": "v-1l9IShGOim1eJpRjfuPFWX7mS3oFZ8mz4",
+          "href": "s1.html#v-1l9IShGOim1eJpRjfuPFWX7mS3oFZ8mz4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Classes",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Classes",
+          "id": "1B24C6MaIIfO_O9Jm44P0-9DKNQkbintt",
+          "anchor": "v-1B24C6MaIIfO_O9Jm44P0-9DKNQkbintt",
+          "href": "s2.html#v-1B24C6MaIIfO_O9Jm44P0-9DKNQkbintt"
+        },
+        {
+          "number": 2,
+          "title": "Constructors",
+          "id": "1hGlKDT_AixGzKIVsh_pikJ0-x2zHelXj",
+          "anchor": "v-1hGlKDT_AixGzKIVsh_pikJ0-x2zHelXj",
+          "href": "s2.html#v-1hGlKDT_AixGzKIVsh_pikJ0-x2zHelXj"
+        },
+        {
+          "number": 3,
+          "title": "Object Initializers",
+          "id": "18E-ZiRe0Yb5z4V8M_N-93tQ1SZRdt2Nd",
+          "anchor": "v-18E-ZiRe0Yb5z4V8M_N-93tQ1SZRdt2Nd",
+          "href": "s2.html#v-18E-ZiRe0Yb5z4V8M_N-93tQ1SZRdt2Nd"
+        },
+        {
+          "number": 4,
+          "title": "Methods",
+          "id": "1MfwUDZbsBGKMYP5QSdZt2W_enCzmi71m",
+          "anchor": "v-1MfwUDZbsBGKMYP5QSdZt2W_enCzmi71m",
+          "href": "s2.html#v-1MfwUDZbsBGKMYP5QSdZt2W_enCzmi71m"
+        },
+        {
+          "number": 5,
+          "title": "Fields",
+          "id": "16T57e5kCgdCaRFI2cej1jsSmvDhmEWUb",
+          "anchor": "v-16T57e5kCgdCaRFI2cej1jsSmvDhmEWUb",
+          "href": "s2.html#v-16T57e5kCgdCaRFI2cej1jsSmvDhmEWUb"
+        },
+        {
+          "number": 6,
+          "title": "Access Modifiers",
+          "id": "1AnNFRvW3O-5Ry7LNl7jVKRpwVtG95B-v",
+          "anchor": "v-1AnNFRvW3O-5Ry7LNl7jVKRpwVtG95B-v",
+          "href": "s2.html#v-1AnNFRvW3O-5Ry7LNl7jVKRpwVtG95B-v"
+        },
+        {
+          "number": 7,
+          "title": "Properties",
+          "id": "1mPUWa6D-LDa424NAn3Z_qbA8ak_Iwywm",
+          "anchor": "v-1mPUWa6D-LDa424NAn3Z_qbA8ak_Iwywm",
+          "href": "s2.html#v-1mPUWa6D-LDa424NAn3Z_qbA8ak_Iwywm"
+        },
+        {
+          "number": 8,
+          "title": "Indexers",
+          "id": "1qIugyqhRBhx4NstIJnUfboSKKDFCVaen",
+          "anchor": "v-1qIugyqhRBhx4NstIJnUfboSKKDFCVaen",
+          "href": "s2.html#v-1qIugyqhRBhx4NstIJnUfboSKKDFCVaen"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Association between Classes",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Class Coupling",
+          "id": "1TpEUq5LjM0hrMpxtsWtb86PLPmMFF12H",
+          "anchor": "v-1TpEUq5LjM0hrMpxtsWtb86PLPmMFF12H",
+          "href": "s3.html#v-1TpEUq5LjM0hrMpxtsWtb86PLPmMFF12H"
+        },
+        {
+          "number": 2,
+          "title": "Inheritance",
+          "id": "1BXcoRh6uhnMY-4lL8ScFDhhf7vzsmXMP",
+          "anchor": "v-1BXcoRh6uhnMY-4lL8ScFDhhf7vzsmXMP",
+          "href": "s3.html#v-1BXcoRh6uhnMY-4lL8ScFDhhf7vzsmXMP"
+        },
+        {
+          "number": 3,
+          "title": "Composition",
+          "id": "1pfOUj9JQuoTW__1tQ8YXpfdl63y1yuND",
+          "anchor": "v-1pfOUj9JQuoTW__1tQ8YXpfdl63y1yuND",
+          "href": "s3.html#v-1pfOUj9JQuoTW__1tQ8YXpfdl63y1yuND"
+        },
+        {
+          "number": 4,
+          "title": "Favour Composition over Inheritance",
+          "id": "179K6cdXGj72wdvimTDsvgrKnhtO-IX4e",
+          "anchor": "v-179K6cdXGj72wdvimTDsvgrKnhtO-IX4e",
+          "href": "s3.html#v-179K6cdXGj72wdvimTDsvgrKnhtO-IX4e"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Inheritance - Second Pillar of OOP",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Access Modifiers",
+          "id": "1kmzNFUjk_LlW3mhUk44RFTWUF3QxbBvM",
+          "anchor": "v-1kmzNFUjk_LlW3mhUk44RFTWUF3QxbBvM",
+          "href": "s4.html#v-1kmzNFUjk_LlW3mhUk44RFTWUF3QxbBvM"
+        },
+        {
+          "number": 2,
+          "title": "Constructors and Inheritance",
+          "id": "1kyVCyrP6IGIfE0LMtYlExJVQRjbFkJpW",
+          "anchor": "v-1kyVCyrP6IGIfE0LMtYlExJVQRjbFkJpW",
+          "href": "s4.html#v-1kyVCyrP6IGIfE0LMtYlExJVQRjbFkJpW"
+        },
+        {
+          "number": 3,
+          "title": "Upcasting and Downcasting",
+          "id": "1DzaiISiLEK4HVBcgzkr_2Y2MO215NI2b",
+          "anchor": "v-1DzaiISiLEK4HVBcgzkr_2Y2MO215NI2b",
+          "href": "s4.html#v-1DzaiISiLEK4HVBcgzkr_2Y2MO215NI2b"
+        },
+        {
+          "number": 4,
+          "title": "Boxing and Unboxing",
+          "id": "1B8iEhwSN6QcqK4_k5HWlZc-mG5pa0U_3",
+          "anchor": "v-1B8iEhwSN6QcqK4_k5HWlZc-mG5pa0U_3",
+          "href": "s4.html#v-1B8iEhwSN6QcqK4_k5HWlZc-mG5pa0U_3"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Polymorphism Third Pillar of OOP",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Method Overriding",
+          "id": "1jJux_tsYUTYlqP5_Nc2X11VZvHcOwYlD",
+          "anchor": "v-1jJux_tsYUTYlqP5_Nc2X11VZvHcOwYlD",
+          "href": "s5.html#v-1jJux_tsYUTYlqP5_Nc2X11VZvHcOwYlD"
+        },
+        {
+          "number": 2,
+          "title": "Abstract Classes and Members",
+          "id": "12kZ06_5X0PJrwu5va0yBkasIi5NnPhd8",
+          "anchor": "v-12kZ06_5X0PJrwu5va0yBkasIi5NnPhd8",
+          "href": "s5.html#v-12kZ06_5X0PJrwu5va0yBkasIi5NnPhd8"
+        },
+        {
+          "number": 3,
+          "title": "Sealed Classes and Members",
+          "id": "1_ILn7E1PX-rYv8GWZFX2KFWGNfriwp8_",
+          "anchor": "v-1_ILn7E1PX-rYv8GWZFX2KFWGNfriwp8_",
+          "href": "s5.html#v-1_ILn7E1PX-rYv8GWZFX2KFWGNfriwp8_"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Interfaces",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is an Interface",
+          "id": "1jXT-tv-rVBjLMWc2NtkwI1Bj3CyArCtS",
+          "anchor": "v-1jXT-tv-rVBjLMWc2NtkwI1Bj3CyArCtS",
+          "href": "s6.html#v-1jXT-tv-rVBjLMWc2NtkwI1Bj3CyArCtS"
+        },
+        {
+          "number": 2,
+          "title": "Interfaces and Testability",
+          "id": "1ImgPWDH3MR1VImxuPvJ7uKtdgSktgEfH",
+          "anchor": "v-1ImgPWDH3MR1VImxuPvJ7uKtdgSktgEfH",
+          "href": "s6.html#v-1ImgPWDH3MR1VImxuPvJ7uKtdgSktgEfH"
+        },
+        {
+          "number": 3,
+          "title": "Interfaces and Extensibility",
+          "id": "1dtlfOO_SSDQvLPjM8MdMW4Yt3DgTFqkI",
+          "anchor": "v-1dtlfOO_SSDQvLPjM8MdMW4Yt3DgTFqkI",
+          "href": "s6.html#v-1dtlfOO_SSDQvLPjM8MdMW4Yt3DgTFqkI"
+        },
+        {
+          "number": 4,
+          "title": "Interfaces are NOT for Multiple Inheritance",
+          "id": "1nG4R6fbtySucHE9oWwqTyrKPtGBfuelb",
+          "anchor": "v-1nG4R6fbtySucHE9oWwqTyrKPtGBfuelb",
+          "href": "s6.html#v-1nG4R6fbtySucHE9oWwqTyrKPtGBfuelb"
+        },
+        {
+          "number": 5,
+          "title": "Interfaces and Polymorphism",
+          "id": "1hXXb0h_1zk_0IJvjE26zVmMs2Hewzr2S",
+          "anchor": "v-1hXXb0h_1zk_0IJvjE26zVmMs2Hewzr2S",
+          "href": "s6.html#v-1hXXb0h_1zk_0IJvjE26zVmMs2Hewzr2S"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Whats Next",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Final Words",
+          "id": "1LeVIuUrelz_cMYSn2ObRdCnjT_Y-EN9q",
+          "anchor": "v-1LeVIuUrelz_cMYSn2ObRdCnjT_Y-EN9q",
+          "href": "s7.html#v-1LeVIuUrelz_cMYSn2ObRdCnjT_Y-EN9q"
+        },
+        {
+          "number": 2,
+          "title": "My Other Courses",
+          "id": "1vIVHeX2UMJ-G7fqgrdiDkvrqv2emZdg1",
+          "anchor": "v-1vIVHeX2UMJ-G7fqgrdiDkvrqv2emZdg1",
+          "href": "s7.html#v-1vIVHeX2UMJ-G7fqgrdiDkvrqv2emZdg1"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Bonus Students Code Reviews",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "StopWatch Exercise",
+          "id": "1nwBsP9qQBmI3aWB7fK1MEwMxGcjwMqHm",
+          "anchor": "v-1nwBsP9qQBmI3aWB7fK1MEwMxGcjwMqHm",
+          "href": "s8.html#v-1nwBsP9qQBmI3aWB7fK1MEwMxGcjwMqHm"
+        },
+        {
+          "number": 2,
+          "title": "Stack Exercise",
+          "id": "1sYCHwQqL1e7wddCdYkGNIile4yT5_pkk",
+          "anchor": "v-1sYCHwQqL1e7wddCdYkGNIile4yT5_pkk",
+          "href": "s8.html#v-1sYCHwQqL1e7wddCdYkGNIile4yT5_pkk"
+        },
+        {
+          "number": 3,
+          "title": "Workflow Engine Exercise",
+          "id": "1d--ahqa-YEIWuCzKGa0nHyPuInyZy6MH",
+          "anchor": "v-1d--ahqa-YEIWuCzKGa0nHyPuInyZy6MH",
+          "href": "s8.html#v-1d--ahqa-YEIWuCzKGa0nHyPuInyZy6MH"
+        }
+      ]
+    }
+  ]
+}

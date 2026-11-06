@@ -1,0 +1,49 @@
+# CSharp Intermediate - Classes, Interfaces and Object-oriented Programming
+
+1. About this Course  [s1.html]
+    001. What You are Going to Learn  ->  https://drive.google.com/file/d/1STBuWrPbWJImBEpDyGMa5WMTHmmd6Y6s/preview
+    002. Who is Your Instructor  ->  https://drive.google.com/file/d/19KNAhU3YbNnJ7HGhUj0sg5ksdA09UN02/preview
+    003. Asking Questions  ->  https://drive.google.com/file/d/1l9IShGOim1eJpRjfuPFWX7mS3oFZ8mz4/preview
+
+2. Classes  [s2.html]
+    001. Introduction to Classes  ->  https://drive.google.com/file/d/1B24C6MaIIfO_O9Jm44P0-9DKNQkbintt/preview
+    002. Constructors  ->  https://drive.google.com/file/d/1hGlKDT_AixGzKIVsh_pikJ0-x2zHelXj/preview
+    003. Object Initializers  ->  https://drive.google.com/file/d/18E-ZiRe0Yb5z4V8M_N-93tQ1SZRdt2Nd/preview
+    004. Methods  ->  https://drive.google.com/file/d/1MfwUDZbsBGKMYP5QSdZt2W_enCzmi71m/preview
+    005. Fields  ->  https://drive.google.com/file/d/16T57e5kCgdCaRFI2cej1jsSmvDhmEWUb/preview
+    006. Access Modifiers  ->  https://drive.google.com/file/d/1AnNFRvW3O-5Ry7LNl7jVKRpwVtG95B-v/preview
+    007. Properties  ->  https://drive.google.com/file/d/1mPUWa6D-LDa424NAn3Z_qbA8ak_Iwywm/preview
+    008. Indexers  ->  https://drive.google.com/file/d/1qIugyqhRBhx4NstIJnUfboSKKDFCVaen/preview
+
+3. Association between Classes  [s3.html]
+    001. Class Coupling  ->  https://drive.google.com/file/d/1TpEUq5LjM0hrMpxtsWtb86PLPmMFF12H/preview
+    002. Inheritance  ->  https://drive.google.com/file/d/1BXcoRh6uhnMY-4lL8ScFDhhf7vzsmXMP/preview
+    003. Composition  ->  https://drive.google.com/file/d/1pfOUj9JQuoTW__1tQ8YXpfdl63y1yuND/preview
+    004. Favour Composition over Inheritance  ->  https://drive.google.com/file/d/179K6cdXGj72wdvimTDsvgrKnhtO-IX4e/preview
+
+4. Inheritance - Second Pillar of OOP  [s4.html]
+    001. Access Modifiers  ->  https://drive.google.com/file/d/1kmzNFUjk_LlW3mhUk44RFTWUF3QxbBvM/preview
+    002. Constructors and Inheritance  ->  https://drive.google.com/file/d/1kyVCyrP6IGIfE0LMtYlExJVQRjbFkJpW/preview
+    003. Upcasting and Downcasting  ->  https://drive.google.com/file/d/1DzaiISiLEK4HVBcgzkr_2Y2MO215NI2b/preview
+    004. Boxing and Unboxing  ->  https://drive.google.com/file/d/1B8iEhwSN6QcqK4_k5HWlZc-mG5pa0U_3/preview
+
+5. Polymorphism Third Pillar of OOP  [s5.html]
+    001. Method Overriding  ->  https://drive.google.com/file/d/1jJux_tsYUTYlqP5_Nc2X11VZvHcOwYlD/preview
+    002. Abstract Classes and Members  ->  https://drive.google.com/file/d/12kZ06_5X0PJrwu5va0yBkasIi5NnPhd8/preview
+    003. Sealed Classes and Members  ->  https://drive.google.com/file/d/1_ILn7E1PX-rYv8GWZFX2KFWGNfriwp8_/preview
+
+6. Interfaces  [s6.html]
+    001. What is an Interface  ->  https://drive.google.com/file/d/1jXT-tv-rVBjLMWc2NtkwI1Bj3CyArCtS/preview
+    002. Interfaces and Testability  ->  https://drive.google.com/file/d/1ImgPWDH3MR1VImxuPvJ7uKtdgSktgEfH/preview
+    003. Interfaces and Extensibility  ->  https://drive.google.com/file/d/1dtlfOO_SSDQvLPjM8MdMW4Yt3DgTFqkI/preview
+    004. Interfaces are NOT for Multiple Inheritance  ->  https://drive.google.com/file/d/1nG4R6fbtySucHE9oWwqTyrKPtGBfuelb/preview
+    005. Interfaces and Polymorphism  ->  https://drive.google.com/file/d/1hXXb0h_1zk_0IJvjE26zVmMs2Hewzr2S/preview
+
+7. Whats Next  [s7.html]
+    001. Final Words  ->  https://drive.google.com/file/d/1LeVIuUrelz_cMYSn2ObRdCnjT_Y-EN9q/preview
+    002. My Other Courses  ->  https://drive.google.com/file/d/1vIVHeX2UMJ-G7fqgrdiDkvrqv2emZdg1/preview
+
+8. Bonus Students Code Reviews  [s8.html]
+    001. StopWatch Exercise  ->  https://drive.google.com/file/d/1nwBsP9qQBmI3aWB7fK1MEwMxGcjwMqHm/preview
+    002. Stack Exercise  ->  https://drive.google.com/file/d/1sYCHwQqL1e7wddCdYkGNIile4yT5_pkk/preview
+    003. Workflow Engine Exercise  ->  https://drive.google.com/file/d/1d--ahqa-YEIWuCzKGa0nHyPuInyZy6MH/preview
